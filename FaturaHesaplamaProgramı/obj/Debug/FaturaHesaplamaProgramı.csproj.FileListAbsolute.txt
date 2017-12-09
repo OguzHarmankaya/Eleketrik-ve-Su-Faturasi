@@ -1,0 +1,10 @@
+D:\FaturaHesaplamaProgramı\FaturaHesaplamaProgramı\bin\Debug\FaturaHesaplamaProgramı.exe.config
+D:\FaturaHesaplamaProgramı\FaturaHesaplamaProgramı\bin\Debug\FaturaHesaplamaProgramı.exe
+D:\FaturaHesaplamaProgramı\FaturaHesaplamaProgramı\bin\Debug\FaturaHesaplamaProgramı.pdb
+D:\FaturaHesaplamaProgramı\FaturaHesaplamaProgramı\obj\Debug\FaturaHesaplamaProgramı.csprojResolveAssemblyReference.cache
+D:\FaturaHesaplamaProgramı\FaturaHesaplamaProgramı\obj\Debug\FaturaHesaplamaProgramı.Form1.resources
+D:\FaturaHesaplamaProgramı\FaturaHesaplamaProgramı\obj\Debug\FaturaHesaplamaProgramı.Properties.Resources.resources
+D:\FaturaHesaplamaProgramı\FaturaHesaplamaProgramı\obj\Debug\FaturaHesaplamaProgramı.csproj.GenerateResource.Cache
+D:\FaturaHesaplamaProgramı\FaturaHesaplamaProgramı\obj\Debug\FaturaHesaplamaProgramı.csproj.CoreCompileInputs.cache
+D:\FaturaHesaplamaProgramı\FaturaHesaplamaProgramı\obj\Debug\FaturaHesaplamaProgramı.exe
+D:\FaturaHesaplamaProgramı\FaturaHesaplamaProgramı\obj\Debug\FaturaHesaplamaProgramı.pdb
